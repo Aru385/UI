@@ -1,4 +1,3 @@
-until game:IsLoaded()
 local library = {}
 local ToggleUI = false
 library.currentTab = nil
@@ -4082,4 +4081,4 @@ end
         return tab
       end
       return window
-end
+end)
