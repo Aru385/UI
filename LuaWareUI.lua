@@ -1,4 +1,3 @@
-local library = {}
 local ToggleUI = false
 library.currentTab = nil
 library.flags = {}
