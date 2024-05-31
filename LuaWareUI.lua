@@ -1,3 +1,4 @@
+until game:IsLoaded()
 local library = {}
 local ToggleUI = false
 library.currentTab = nil
